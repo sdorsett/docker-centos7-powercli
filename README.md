@@ -1,8 +1,7 @@
 This repository provides a Dockerfile to create a CentOS 7 docker image with VMware powercli core installed on it.
 
-In order to use this repository you need the following:
+In order to use this Dockerfile, perform the following steps:
 * Install docker 
-```
 * Clone down this repository using the following command:
 ```
   git clone https://github.com/sdorsett/docker-centos7-powercli.git
