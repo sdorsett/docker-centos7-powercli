@@ -91,7 +91,7 @@ DatastoreIdList         : {Datastore-datastore-89}
 ExtensionData           : VMware.Vim.VirtualMachine
 CustomFields            : {[vsphere-vps, ]}
 Id                      : VirtualMachine-vm-1013
-Uid                     : /VIServer=vsphere.local\administrator@192.168.1.100:443/VirtualMachine=VirtualMachine-vm-1013/
+Uid                     : /VIServer=vsphere.local\administrator@192.168.1.51:443/VirtualMachine=VirtualMachine-vm-1013/
 Client                  : VMware.VimAutomation.ViCore.Impl.V1.VimClient
 
 PS />
